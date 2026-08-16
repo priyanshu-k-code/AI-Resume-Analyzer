@@ -10,7 +10,7 @@ An AI-powered Resume Analyzer that compares a candidate's resume with a job desc
 - AI-based resume analysis
 - Requirement-wise evaluation with scores
 - Resume improvement suggestions
-- Downloadable analysis report
+- The generated analysis report can be downloaded for later reference.
 - Simple and responsive Streamlit interface
 
 ## Tech Stack
@@ -26,7 +26,7 @@ An AI-powered Resume Analyzer that compares a candidate's resume with a job desc
 ## Project Structure
 
 ```text
-AI_Resume_Analyzer/
+AI-Resume-Analyzer/
 │
 ├── assets/
 │   └── style.css
@@ -53,8 +53,8 @@ AI_Resume_Analyzer/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-cd AI_Resume_Analyzer
+git clone https://github.com/priyanshu-k-code/AI-Resume-Analyzer.git
+cd AI-Resume-Analyzer
 ```
 
 ### 2. Create a virtual environment
