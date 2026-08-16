@@ -99,7 +99,7 @@ streamlit run main.py
 4. Cosine similarity is used to calculate the ATS similarity score.
 5. Groq generates a detailed AI evaluation of the resume.
 6. Scores from the AI report are used to calculate the average AI score.
-7. The final report can be downloaded as a text file.
+7. 7. The generated analysis report can be downloaded for later reference.
 
 ## Notes
 
