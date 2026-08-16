@@ -1,0 +1,70 @@
+/* ================================
+   AI Resume Analyzer
+   Custom Application Styling
+   ================================ */
+
+.block-container {
+    max-width: 1100px;
+    padding-top: 2.5rem;
+    padding-bottom: 2rem;
+}
+
+h1 {
+    font-size: 2.7rem !important;
+    font-weight: 700 !important;
+    margin-bottom: 0.2rem !important;
+}
+
+.score-card {
+    padding: 1.25rem;
+    border: 1px solid rgba(128, 128, 128, 0.25);
+    border-radius: 14px;
+    margin-bottom: 0.75rem;
+    background: rgba(128, 128, 128, 0.06);
+}
+
+.score-title {
+    font-size: 1rem;
+    font-weight: 600;
+    margin-bottom: 0.35rem;
+}
+
+.score-value {
+    font-size: 2.1rem;
+    font-weight: 700;
+    line-height: 1.1;
+}
+
+.score-description {
+    margin-top: 0.45rem;
+    font-size: 0.86rem;
+    opacity: 0.72;
+}
+
+.report-container {
+    padding: 1.25rem;
+    border: 1px solid rgba(128, 128, 128, 0.25);
+    border-radius: 14px;
+    background: rgba(128, 128, 128, 0.04);
+    line-height: 1.65;
+}
+
+div[data-testid="stForm"] {
+    padding: 1rem;
+    border-radius: 14px;
+}
+
+button[kind="primary"] {
+    font-weight: 600;
+}
+
+@media (max-width: 700px) {
+    .block-container {
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+
+    h1 {
+        font-size: 2.1rem !important;
+    }
+}
