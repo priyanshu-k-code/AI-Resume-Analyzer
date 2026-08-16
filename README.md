@@ -101,6 +101,21 @@ streamlit run main.py
 6. Scores from the AI report are used to calculate the average AI score.
 7. 7. The generated analysis report can be downloaded for later reference.
 
+
+## Screenshots
+
+### Home Page
+
+![AI Resume Analyzer Home](screenshots/home.png)
+
+### Resume Analysis
+
+![Resume Analysis](screenshots/analysis.png)
+
+### Generated Report
+
+![Generated Resume Report](screenshots/report.png)
+
 ## Notes
 
 The ATS similarity score is a semantic similarity indicator and should not be treated as an exact replica of any particular company's ATS.
